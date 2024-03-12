@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[any? { |e| $0 }]]></content>
+    <description>Convert 'any' to any? { |e|  }</description>
+    <tabTrigger>any</tabTrigger>
+    <scope>source.ruby</scope>
+</snippet>

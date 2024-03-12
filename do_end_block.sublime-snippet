@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[do |$1|
+  $0
+end]]></content>
+  <description>do/end yield</description>
+  <tabTrigger>doo</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

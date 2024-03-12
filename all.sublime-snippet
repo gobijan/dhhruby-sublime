@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[all? { |e| $0 }]]></content>
+    <description>Convert 'all' to all? { |e|  }</description>
+    <tabTrigger>all</tabTrigger>
+    <scope>source.ruby</scope>
+</snippet>

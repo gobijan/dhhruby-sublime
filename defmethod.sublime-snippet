@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+def ${1:method_name}
+  $0
+end
+]]></content>
+    <tabTrigger>defmethod</tabTrigger> <!-- This is optional and used for manual triggering -->
+    <scope>source.ruby</scope>
+    <description>Create Ruby method</description>
+</snippet>

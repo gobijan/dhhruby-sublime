@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[module $1
+  extend ActiveSupport::Concern
+  
+  $0
+end]]></content>
+    <description>concern</description>
+    <tabTrigger>concern</tabTrigger>
+    <scope>source.ruby</scope>
+</snippet>
